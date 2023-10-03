@@ -4,7 +4,10 @@ html, body {
     margin: 0;
     padding: 0;
   }
-  
+  header img{
+    width: 5%;
+    float: right;
+  }
   html {
     font-size: 10px;
     background-color: #5e6b5e;;
